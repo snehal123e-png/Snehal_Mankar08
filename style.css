@@ -240,8 +240,10 @@ font-size:15px;
 }
 
 .hero{
-padding-top:150px;
-}
+min-height:85vh;
+padding-top:100px;
+padding-bottom:20px;
+  }
 
 .profile{
 width:150px;
@@ -272,4 +274,8 @@ width:100%;
 font-size:15px;
 padding:12px 22px;
 }
+  #about{
+margin-top:0;
+padding-top:10px;
+  }
   }
