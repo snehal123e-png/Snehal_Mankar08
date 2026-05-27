@@ -56,8 +56,7 @@ color:#ff4da6;
 }
 
 section{
-min-height:100vh;
-padding:120px 8%;
+padding:70px 8%;
 display:flex;
 justify-content:center;
 align-items:center;
@@ -230,5 +229,8 @@ gap:12px;
 
 .card{
 width:100%;
+}
+.hero{
+min-height:100vh;
 }
 }
